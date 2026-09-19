@@ -1,21 +1,30 @@
 <h1 align="center">Hi 👋, I'm Gaurav Gurnani</h1>
-<h3 align="center">☁️ Senior Cloud & Platform Engineer | GCP | Kubernetes | Terraform | DevOps</h3>
+
+<h3 align="center">☁️ Solutions Architect | GCP | Cloud Architecture | Platform Engineering | Automation</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=750&lines=Senior+Cloud+%26+Platform+Engineer;DevOps+%26+Infrastructure+Automation;13%2B+Years+of+IT+Industry+Experience;GCP+%7C+Kubernetes+%7C+Terraform+%7C+Linux" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=Solutions+Architect;Cloud+%26+Platform+Engineering;GCP+%7C+GKE+%7C+Terraform+%7C+Linux;Cloud+Architecture+%26+Infrastructure+Automation;13%2B+Years+of+IT+Industry+Experience" alt="Typing SVG" />
 </p>
+
 
 ---
 
 ### 🧭 About Me
 
-I am a **Senior Cloud & Platform Engineering professional** with **13 years of IT industry experience**, specializing in cloud infrastructure, platform engineering, automation and operational excellence.
+I am a **Solutions Architect** with **13 years of IT industry experience**, specializing in **Google Cloud, cloud architecture, platform engineering, infrastructure automation, and operational excellence**.
 
-- ☁️ Building **scalable, secure, resilient and production-ready cloud platforms**
-- ⚙️ Strong focus on **Infrastructure as Code, automation, reliability & standardization**
-- 🔭 Currently working with **GCP, GKE, Terraform, GitHub Actions & Linux**
-- 🌱 Always exploring modern **platform engineering & SRE practices**
-- 💬 Ask me about **GCP, Kubernetes, Terraform, Linux & DevOps automation**
+I focus on designing and delivering **secure, scalable, highly available, and production-ready cloud solutions**, combining architecture with hands-on engineering and automation.
+
+☁️ Designing **scalable, secure, resilient & enterprise-ready cloud architectures** on **Google Cloud Platform**<br>
+🏗️ Architecting and automating **cloud infrastructure, platforms & migration solutions** using **GCP, Terraform & Infrastructure as Code**<br>
+🚀 Hands-on experience with **large-scale cloud migration, GKE/Kubernetes, Backup & DR, IAM, networking, monitoring & cost optimization**<br>
+⚙️ Building **automated, standardized & repeatable infrastructure** to improve reliability and reduce operational complexity<br>
+🔧 Strong focus on **platform engineering, DevOps, SRE practices, infrastructure reliability & operational excellence**<br>
+🔭 Currently working with **GCP, GKE, Terraform, GitHub Actions, Linux/RHEL & cloud automation**<br>
+🌱 Continuously exploring **cloud architecture, Kubernetes, platform engineering, automation & modern SRE practices**<br>
+💬 Ask me about **GCP, Kubernetes/GKE, Terraform, Linux, cloud migration, infrastructure automation & DevOps**
+
+
 
 ---
 
@@ -72,14 +81,7 @@ I am a **Senior Cloud & Platform Engineering professional** with **13 years of I
 
 ---
 
-### 📊 GitHub Stats
 
-<div align="center">
-
-<img src="./profile/stats.svg" alt="GitHub Statistics" width="49%" />
-<img src="./profile/top-langs.svg" alt="Top Languages" width="49%" />
-
-</div>
 
 ---
 
