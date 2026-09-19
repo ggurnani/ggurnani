@@ -13,13 +13,14 @@
 
 ## 👨‍💻 Senior About Me
 
-I'm a **Senior Cloud & Platform Engineering professional** with **13+ years of experience in the IT industry**, specializing in **Google Cloud Platform (GCP), Cloud Architecture, Kubernetes/GKE, DevOps, Infrastructure as Code, Linux/RHEL, Bash automation, and PostgreSQL Database Administration**. 🇮🇳
+I'm a **Senior Cloud & Platform Engineering professional** with **13 years of IT industry experience**, focused on **GCP, Kubernetes/GKE, DevOps, Terraform/IaC, Cloud Architecture, Linux/RHEL, Bash automation, and PostgreSQL**.
 
-My experience spans **cloud infrastructure, platform engineering, automation, high availability, DC-DR, database administration, cluster management, enterprise Linux, and production infrastructure operations**.
+I focus on building **scalable, secure, resilient, and production-ready cloud platforms, with an emphasis on automation, reliability, operational efficiency, and infrastructure standardization.**
 
-I work on designing and managing **scalable, secure, resilient, and production-ready platforms**, with a strong focus on **automation, reliability, operational efficiency, and infrastructure standardization**.
-
-Currently, I'm focusing on strengthening my expertise in **Cloud Architecture, Kubernetes/GKE, GitHub Actions & CI/CD, Terraform/IaC, and cloud automation**.
+🔭 Currently working on **cloud-native solutions, and DevOps/Platform Engineering**
+🌱 Always learning about **emerging technologies** and **best practices**
+👯 Looking to collaborate on **open-source projects** and **DevOps initiatives**
+⚡ Fun fact: I love sharing knowledge through **training and mentoring**
 
 ---
 
