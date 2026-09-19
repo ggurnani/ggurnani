@@ -13,7 +13,7 @@
   </a>
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Cloud+%26+Platform+Engineering;Google+Cloud+%7C+GKE+%7C+Kubernetes;Terraform+%7C+Infrastructure+as+Code;DevOps+%26+Cloud+Automation;Git+%7C+GitHub+Actions+%7C+CI%2FCD;Bash+%7C+Linux+%7C+RHEL" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Cloud+%26+Platform+Engineering;Google+Cloud+%7C+GKE+%7C+Kubernetes;Terraform+%7C+Infrastructure+as+Code;DevOps+%26+Cloud+Automation;Git+%7C+GitHub+Actions+%7C+CI%2FCD;Bash+%7C+Linux+%7C+RHEL;PostgreSQL+%7C+Database+Administration;DC-DR+Replication+%7C+Cluster+Build" alt="Typing SVG"/>
 
 </div>
 
@@ -21,50 +21,41 @@
 
 ## 🚀 About Me
 
-I'm a **Cloud & Platform Engineering professional** focused on designing, automating, and operating scalable cloud infrastructure and enterprise platforms.
+I'm a **Cloud & Platform Engineering professional** with hands-on experience in cloud infrastructure, enterprise Linux, database administration, automation and infrastructure operations.
 
-My primary areas of interest and hands-on work include **Google Cloud Platform, Kubernetes/GKE, Terraform, DevOps automation, Git-based CI/CD, Bash scripting, Linux/RHEL and cloud operations**.
+My primary areas of expertise include **Google Cloud Platform, Kubernetes/GKE, Terraform, DevOps automation, Git-based CI/CD, Bash scripting, Linux/RHEL and PostgreSQL database administration**.
 
 * ☁️ Working with **Google Cloud Platform (GCP)** and cloud infrastructure
 * ☸️ Working with **Kubernetes & Google Kubernetes Engine (GKE)**
 * 🏗️ Automating infrastructure using **Terraform & Infrastructure as Code**
-* 🔄 Building **CI/CD workflows** using GitHub Actions and Azure DevOps
+* 🔄 Building CI/CD workflows using **GitHub Actions and Azure DevOps**
 * 🐚 Writing **Bash/Shell scripts** for infrastructure and operational automation
-* 🐧 Working with **Linux / RHEL enterprise environments**
+* 🐧 Hands-on experience with **Linux / RHEL enterprise environments**
+* 🗄️ Hands-on experience in **PostgreSQL Database Administration**
+* 🔁 Experience with **DC-DR replication and database recovery solutions**
+* 🖥️ Experience in **cluster build, configuration and administration**
 * 🔐 Working with **IAM, networking and cloud infrastructure security**
-* 🗄️ Managing and automating **Cloud SQL infrastructure**
-* 💾 Exploring **Backup & Disaster Recovery** for cloud workloads
-* 🤖 Automating repetitive operational tasks using **GCP-native services**
-* 🌱 Continuously learning modern **Cloud, DevOps and Platform Engineering** practices
+* 💾 Working with **Backup & Disaster Recovery** solutions
+* 🌱 Continuously learning modern **Cloud, Kubernetes and Platform Engineering** practices
 
 ---
 
-## ☁️ Cloud & Platform Engineering
+## ☁️ Google Cloud Platform
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="55" height="55" alt="Google Cloud"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" width="55" height="55" alt="Kubernetes"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="55" height="55" alt="Docker"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="55" height="55" alt="Terraform"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="55" height="55" alt="Linux"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="55" height="55" alt="Git"/>
 </p>
 
-### Google Cloud
+### GCP Services & Technologies
 
-`GCP` • `GKE` • `Compute Engine` • `Cloud SQL` • `VPC` • `IAM` • `Cloud Storage` • `Load Balancing` • `Pub/Sub` • `Cloud Scheduler` • `Cloud Build` • `OS Config` • `Backup & DR`
-
-### Infrastructure as Code
-
-`Terraform` • `Terraform Modules` • `Remote State` • `Infrastructure Automation` • `Git-based Workflows`
-
-### Kubernetes & Containers
-
-`Kubernetes` • `GKE` • `Docker` • `Containerized Workloads` • `Cloud Native`
+`Google Cloud Platform` • `Compute Engine` • `GKE` • `Cloud SQL` • `VPC` • `IAM` • `Service Accounts` • `Cloud Storage` • `Load Balancing` • `Pub/Sub` • `Cloud Scheduler` • `Cloud Build` • `OS Config` • `OS Policy` • `Backup & DR`
 
 ---
 
-## 🛠️ DevOps & Automation Stack
+## 🛠️ DevOps & Automation
 
 ### 🔄 Git & CI/CD
 
@@ -77,15 +68,13 @@ My primary areas of interest and hands-on work include **Google Cloud Platform, 
 
 `Git` • `GitHub` • `GitHub Actions` • `Azure DevOps` • `CI/CD` • `YAML` • `Pull Requests` • `Code Review`
 
-### 🏗️ Infrastructure Automation
+### 🏗️ Infrastructure as Code
 
 <p>
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Infrastructure%20as%20Code-623CE4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cloud%20Automation-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 </p>
 
-`Terraform` • `IaC` • `Terraform State` • `Modules` • `Cloud Provisioning` • `Infrastructure Lifecycle`
+`Terraform` • `Infrastructure as Code` • `Terraform Modules` • `Remote State` • `Infrastructure Provisioning` • `Cloud Automation`
 
 ### 🐚 Bash & Shell Scripting
 
@@ -100,20 +89,43 @@ My primary areas of interest and hands-on work include **Google Cloud Platform, 
 
 ## 🐧 Linux & Enterprise Infrastructure
 
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Red%20Hat%20Satellite-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="55" height="55" alt="Linux"/>
 </p>
 
-* RHEL 7 / 8 / 9
-* Linux system administration
-* Package & repository management
-* OS patching & automation
-* Red Hat Satellite
-* OS Policy / OS Config
-* Linux troubleshooting
-* System automation using Bash
+### Linux Administration
+
+`Linux` • `RHEL 7/8/9` • `System Administration` • `Package Management` • `Repository Management` • `OS Patching` • `System Troubleshooting` • `Performance Monitoring` • `Service Management`
+
+### Red Hat Ecosystem
+
+`Red Hat Enterprise Linux` • `Red Hat Satellite` • `OS Policy` • `OS Config` • `Package Management` • `Configuration Management`
+
+---
+
+## 🗄️ Database Administration
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="65" height="65" alt="PostgreSQL"/>
+</p>
+
+### PostgreSQL
+
+Hands-on experience in **PostgreSQL database administration**, infrastructure setup, cluster management and operational support.
+
+`PostgreSQL` • `Database Administration` • `Database Installation` • `Configuration` • `Backup & Recovery` • `Performance Monitoring` • `Database Troubleshooting` • `High Availability`
+
+### 🔁 DC-DR & Replication
+
+Experience working with **Database Center / Disaster Recovery environments**, replication and recovery processes.
+
+`DC-DR Replication` • `High Availability` • `Replication` • `Failover` • `Recovery` • `DR Operations`
+
+### 🖥️ Cluster Build & Administration
+
+Experience in building and managing **database and infrastructure clusters**.
+
+`Cluster Build` • `Cluster Configuration` • `High Availability` • `Cluster Administration` • `Failover` • `Node Management`
 
 ---
 
@@ -123,7 +135,7 @@ My primary areas of interest and hands-on work include **Google Cloud Platform, 
 <tr>
 <td width="50%">
 
-### ☁️ Cloud Platform
+### ☁️ Cloud & Platform
 
 * Google Cloud Platform
 * Compute Engine
@@ -133,6 +145,10 @@ My primary areas of interest and hands-on work include **Google Cloud Platform, 
 * IAM & Service Accounts
 * Cloud Storage
 * Load Balancing
+* Pub/Sub
+* Cloud Scheduler
+* Cloud Build
+* OS Config / OS Policy
 * Backup & Disaster Recovery
 
 </td>
@@ -147,10 +163,42 @@ My primary areas of interest and hands-on work include **Google Cloud Platform, 
 * Azure DevOps
 * CI/CD Pipelines
 * Bash / Shell Scripting
-* Cloud Build
-* Cloud Scheduler
-* Pub/Sub
-* OS Policy / OS Config
+* Infrastructure as Code
+* Cloud Automation
+* Configuration Management
+* Operational Automation
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🐧 Linux & Enterprise
+
+* RHEL 7 / 8 / 9
+* Linux Administration
+* Red Hat Satellite
+* OS Patching
+* Package & Repository Management
+* System Troubleshooting
+* Service Management
+* Bash Automation
+
+</td>
+
+<td width="50%">
+
+### 🗄️ Database & DR
+
+* PostgreSQL Administration
+* Database Installation & Configuration
+* Database Backup & Recovery
+* DC-DR Replication
+* High Availability
+* Cluster Build
+* Cluster Administration
+* Failover & Recovery
 
 </td>
 </tr>
@@ -158,7 +206,7 @@ My primary areas of interest and hands-on work include **Google Cloud Platform, 
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Areas & Projects
 
 ### 🏗️ GCP Infrastructure Automation
 
@@ -171,16 +219,16 @@ Automating Google Cloud infrastructure provisioning and lifecycle management usi
 
 ### ☸️ Kubernetes & GKE
 
-Exploring cloud-native infrastructure and workloads using **Kubernetes and Google Kubernetes Engine**, with focus on scalability, reliability and platform operations.
+Working with cloud-native infrastructure and workloads using **Kubernetes and Google Kubernetes Engine**, with focus on scalability, reliability and platform operations.
 
 **Focus:**
 `GKE` • `Kubernetes` • `Docker` • `Cloud Native`
 
 ---
 
-### 🔄 GitHub Actions Automation
+### 🔄 GitHub Actions & CI/CD
 
-Building reusable GitHub Actions workflows for automation, validation, CI/CD and infrastructure deployment.
+Building automation workflows using **GitHub Actions** for CI/CD, infrastructure validation, testing and deployment automation.
 
 **Focus:**
 `GitHub Actions` • `Git` • `YAML` • `Terraform` • `CI/CD`
@@ -198,70 +246,37 @@ Developing Bash scripts to automate repetitive Linux, cloud infrastructure and o
 
 ### 🐧 RHEL Patch & Configuration Automation
 
-Automating enterprise Linux patching and configuration management using cloud-native automation and OS policy approaches.
+Automating enterprise Linux patching and configuration management using **OS Policy, OS Config and Red Hat ecosystem tools**.
 
 **Focus:**
 `RHEL` • `OS Policy` • `OS Config` • `Red Hat Satellite` • `Automation`
 
 ---
 
+### 🗄️ PostgreSQL Database Administration
+
+Working with PostgreSQL database environments including installation, configuration, administration, troubleshooting and operational support.
+
+**Focus:**
+`PostgreSQL` • `Database Administration` • `Backup & Recovery` • `High Availability`
+
+---
+
+### 🔁 DC-DR Replication & Cluster Administration
+
+Working with **DC-DR environments, replication, cluster build, failover and recovery operations** for enterprise infrastructure.
+
+**Focus:**
+`DC-DR` • `Replication` • `Cluster Build` • `High Availability` • `Failover`
+
+---
+
 ### 💾 Cloud Backup & Disaster Recovery
 
-Working with cloud backup and recovery solutions for enterprise workloads, focusing on automation, reliability and infrastructure resilience.
+Working with backup and recovery solutions for enterprise cloud workloads, focusing on automation, reliability and infrastructure resilience.
 
 **Focus:**
-`GCP` • `Backup & DR` • `Compute Engine` • `Cloud SQL`
-
----
-
-### 🗄️ Cloud SQL Infrastructure
-
-Working with managed database infrastructure on Google Cloud, including **Cloud SQL provisioning, configuration, storage and infrastructure automation**.
-
-**Focus:**
-`Cloud SQL` • `PostgreSQL` • `Terraform` • `GCP`
-
----
-
-## 🔄 My DevOps Workflow
-
-<div align="center">
-
-```text
-        ┌─────────────┐
-        │   Git/GitHub│
-        └──────┬──────┘
-               │
-               ▼
-        ┌─────────────┐
-        │ Pull Request│
-        │ Code Review │
-        └──────┬──────┘
-               │
-               ▼
-     ┌───────────────────┐
-     │ GitHub Actions /  │
-     │   Azure DevOps    │
-     └─────────┬─────────┘
-               │
-               ▼
-        ┌─────────────┐
-        │   Terraform │
-        │  Plan / Test │
-        └──────┬──────┘
-               │
-               ▼
-        ┌─────────────┐
-        │    Google   │
-        │    Cloud    │
-        └──────┬──────┘
-               │
-        ┌──────┴────────┐
-        ▼               ▼
-     GKE/GCE        Cloud SQL
-```
-
-</div>
+`GCP` • `Backup & DR` • `Compute Engine` • `Cloud SQL` • `Infrastructure Resilience`
 
 ---
 
@@ -269,19 +284,21 @@ Working with managed database infrastructure on Google Cloud, including **Cloud 
 
 <div align="center">
 
-| Area                   | Focus                |
-| ---------------------- | -------------------- |
-| ☁️ Google Cloud        | ████████████████████ |
-| ☸️ Kubernetes / GKE    | ██████████████████░░ |
-| 🏗️ Terraform / IaC    | ███████████████████░ |
-| 🔄 Git & GitHub        | ████████████████████ |
-| ⚙️ GitHub Actions      | ██████████████████░░ |
-| 🐚 Bash Scripting      | ████████████████████ |
-| 🐧 Linux / RHEL        | ████████████████████ |
-| 🤖 Cloud Automation    | ███████████████████░ |
-| 🏛️ Cloud Architecture | █████████████████░░░ |
+| Area                      |                        Focus |
+| ------------------------- | ---------------------------: |
+| ☁️ Cloud Architecture     | **90%** ██████████████████░░ |
+| ☸️ Kubernetes / GKE       | **90%** ██████████████████░░ |
+| 🔄 GitHub Actions / CI-CD | **90%** ██████████████████░░ |
+| 🏗️ Terraform / IaC       | **85%** █████████████████░░░ |
+| 🤖 Cloud Automation       | **85%** █████████████████░░░ |
+| ☁️ Google Cloud Platform  | **85%** █████████████████░░░ |
+| 🐚 Bash / Shell Scripting | **80%** ████████████████░░░░ |
+| 🐧 Linux / RHEL           | **80%** ████████████████░░░░ |
+| 🗄️ PostgreSQL            | **80%** ████████████████░░░░ |
 
 </div>
+
+> 🚀 Continuously learning, automating and building scalable cloud platforms.
 
 ---
 
@@ -331,12 +348,14 @@ Working with managed database infrastructure on Google Cloud, including **Cloud 
 
 I'm interested in collaborating on:
 
-* ☁️ Google Cloud projects
-* ☸️ Kubernetes / GKE projects
+* ☁️ Google Cloud & Cloud Architecture
+* ☸️ Kubernetes / GKE
 * 🏗️ Terraform & Infrastructure as Code
 * 🔄 GitHub Actions & CI/CD
-* 🐚 Bash / Linux automation
+* 🐚 Bash / Linux Automation
 * 🐧 RHEL & Cloud Operations
+* 🗄️ PostgreSQL & Database Administration
+* 🔁 High Availability & DC-DR
 * 💾 Backup & Disaster Recovery
 * 🔐 Cloud Infrastructure & Security
 * 🌎 Open-source Cloud & DevOps projects
@@ -353,6 +372,10 @@ I'm interested in collaborating on:
 
 <a href="https://www.linkedin.com/in/ggurnani/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:er.gurnani@gmail.com">
+  <img src="https://img.shields.io/badge/Email-er.gurnani%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
