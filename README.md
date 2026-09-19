@@ -11,7 +11,7 @@
 
 ---
 
-## 👨‍💻 Senior About Me
+## 👨‍💻 About Me
 
 I'm a **Senior Cloud & Platform Engineering professional** with **13 years of IT industry experience**, focused on **GCP, Kubernetes/GKE, DevOps, Terraform/IaC, Cloud Architecture, Linux/RHEL, Bash automation, and PostgreSQL**.
 
