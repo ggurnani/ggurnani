@@ -22,7 +22,6 @@ I focus on designing and delivering **secure, scalable, highly available, and pr
 🔧 Strong focus on **platform engineering, DevOps, SRE practices, infrastructure reliability & operational excellence**<br>
 🔭 Currently working with **GCP, GKE, Terraform, GitHub Actions, Linux/RHEL & cloud automation**<br>
 🌱 Continuously exploring **cloud architecture, Kubernetes, platform engineering, automation & modern SRE practices**<br>
-💬 Ask me about **GCP, Kubernetes/GKE, Terraform, Linux, cloud migration, infrastructure automation & DevOps**
 
 
 
