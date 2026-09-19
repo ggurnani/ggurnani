@@ -74,19 +74,12 @@ I am a **Senior Cloud & Platform Engineering professional** with **13 years of I
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ggurnani&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggurnani&layout=compact&hide_border=true&theme=tokyonight" width="30%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ggurnani&theme=tokyonight&hide_border=true" width="49%"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=ggurnani&theme=tokyonight&no-frame=true&row=1&column=6" width="49%"/>
-</p>
+<img src="./profile/stats.svg" alt="GitHub Statistics" width="49%" />
+<img src="./profile/top-langs.svg" alt="Top Languages" width="49%" />
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ggurnani&theme=tokyo-night&hide_border=true&area=true" width="90%"/>
-</p>
+</div>
 
 ---
 
